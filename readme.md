@@ -52,12 +52,12 @@ TrafficSim-master/
 
 ### City Traffic Visualization
 
-![City Traffic](img/1.jpg)
+![City Traffic](src/img/1.jpg)
 
 ### Graph Representation
 
-![Graph Representation](img/2.jpg)
+![Graph Representation](src/img/2.jpg)
 
 ### Node Mapping
 
-![Node Mapping](img/3.jpg)
+![Node Mapping](src/img/3.jpg)
