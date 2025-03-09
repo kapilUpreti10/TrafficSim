@@ -56,7 +56,7 @@ TrafficSim-master/
 
 ### Graph Representation
 
-![](traffic/src/img/2.jpg)
+![alt text](traffic/src/img/2.jpg)
 
 ### Node Mapping
 
